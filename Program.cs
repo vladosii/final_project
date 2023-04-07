@@ -10,3 +10,5 @@
 
 
 System.Console.WriteLine("create final project");
+
+System.Console.WriteLine("Пишем программу");
