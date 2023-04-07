@@ -24,3 +24,11 @@ for (int i = 0; i < lenMass; i++)
         newMass[i] += mass[i];
 }
 
+//Выводим новый массив, в котором длина элементов <= 3
+
+int lenNewMass = newMass.Length;
+
+for (int i = 0; i < lenNewMass; i++)
+{
+    System.Console.WriteLine(newMass[i]);
+}
